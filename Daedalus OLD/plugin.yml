@@ -28,5 +28,4 @@ permissions:
     description: Gives access to /getlog
     default: op
   daedalus.bypass:
-    default: false
-    description: Bypass node.
+    default: true
